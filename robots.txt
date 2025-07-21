@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /stealer-log.html
+
+Sitemap: https://www.datalindung.online/sitemap.xml
